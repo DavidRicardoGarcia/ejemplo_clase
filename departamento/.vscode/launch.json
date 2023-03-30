@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DepartamentoApplication<departamento>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.departamento.departamento.DepartamentoApplication",
+            "projectName": "departamento",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
